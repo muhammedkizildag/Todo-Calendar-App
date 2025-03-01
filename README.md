@@ -16,5 +16,5 @@ This React Todo Calendar App allows users to manage task on a calendar.
 - Add new task
 - Update tasks
 - Delete a task
-- Uptade completion status
+- Update completion status
 
